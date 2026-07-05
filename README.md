@@ -82,6 +82,7 @@ Both models were fine-tuned for pneumonia classification.
 | EfficientNet-B0 | 79.6% | 78.7% | 81.2% | 79.9% |
 | ResNet18 | 76.8% | 72.9% | 85.2% | 78.5% |
 
+EfficientNet-B0 achieved the higher overall accuracy and precision, while ResNet18 obtained a higher recall, indicating better sensitivity in detecting pneumonia cases.
 
 ---
 ## Technologies
