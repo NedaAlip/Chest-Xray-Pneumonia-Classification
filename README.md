@@ -73,10 +73,17 @@ Both models were fine-tuned for pneumonia classification.
 - F1-score
 - ROC-AUC
 - Confusion Matrix
+---
+
+## Results
+
+| Model | Accuracy | Precision | Recall | F1-score |
+|-------|---------:|----------:|--------:|---------:|
+| EfficientNet-B0 | 79.6% | 78.7% | 81.2% | 79.9% |
+| ResNet18 | 76.8% | 72.9% | 85.2% | 78.5% |
 
 
 ---
-
 ## Technologies
 
 - Python
