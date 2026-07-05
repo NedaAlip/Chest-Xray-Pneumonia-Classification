@@ -32,6 +32,14 @@ The workflow includes:
 Dataset source:
 https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge
 
+## Sample Dataset Images
+
+<p align="center">
+  <img src="download.png" width="850"/>
+</p>
+
+Example chest X-ray images from the RSNA Pneumonia Detection Challenge dataset.
+
 Dataset contains:
 - stage_2_train_images
 - stage_2_test_images
