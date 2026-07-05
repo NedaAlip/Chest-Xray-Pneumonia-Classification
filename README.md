@@ -1,5 +1,3 @@
-# Chest X-ray Pneumonia Classification
-Deep learning project for pneumonia detection from chest X-ray images using a Resnet and EfficientNet-B0 in PyTorch.
 
 # Chest X-ray Pneumonia Classification
 
