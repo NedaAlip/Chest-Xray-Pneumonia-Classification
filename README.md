@@ -33,7 +33,7 @@ https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge
 ## Sample Dataset Images
 
 <p align="center">
-  <img src="download.png" width="850"/>
+  <img src="sample_dataset.png" width="850"/>
 </p>
 
 Example chest X-ray images from the RSNA Pneumonia Detection Challenge dataset.
